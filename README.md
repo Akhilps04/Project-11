@@ -34,3 +34,9 @@ Tracks user mood and responds with empathy or encouragement to share concerns.
 Mental Health: Acts as a companion to support users during stressful or sad moments.
 Education: Creates engaging interactions for personalized learning experiences.
 Customer Engagement: Provides tailored responses for improved user satisfaction.
+# Future Enhancements
+Integration of sentiment analysis for text-based conversations.
+Expansion to support additional languages for global usability.
+Improved facial recognition for multi-user tracking.
+# Acknowledgments
+Thanks to my mentors and colleagues for their guidance.
