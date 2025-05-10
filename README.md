@@ -40,3 +40,6 @@ Expansion to support additional languages for global usability.
 Improved facial recognition for multi-user tracking.
 # Acknowledgments
 Thanks to my mentors and colleagues for their guidance.
+
+## 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
